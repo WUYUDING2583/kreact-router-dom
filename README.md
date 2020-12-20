@@ -1,4 +1,4 @@
-**English** | [简体中文]()
+**English** | [简体中文](https://github.com/yuyi2583/kreact-router-dom/blob/master/README-zh_CN.md)
 
 kreact-router-dom is a router component imitates react-router-dom 5.2, it implements components and hooks displayed below:
 
